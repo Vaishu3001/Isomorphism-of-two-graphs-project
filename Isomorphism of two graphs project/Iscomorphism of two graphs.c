@@ -1,14 +1,9 @@
-//working...actual code by me...hehe
+
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
 #include <stdbool.h>
 
-/*
-Team-29
-PADAKANTI VAISHNAVI- 2020B3A70972H
-VANSHIKA MEHUL RAJPARIA-2020B1A70383H
-*/
 bool is_isomorphic = false;
 int n, e;
 int adj_1[10][2], adj_2[10][2];
